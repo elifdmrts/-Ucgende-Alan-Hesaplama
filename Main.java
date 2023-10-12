@@ -8,7 +8,7 @@ public class Main {
         a = untıl.nextInt();
         System.out.print("2. kenar uzunluğunu giriniz: ");
         b = untıl.nextInt();
-        System.out.print("3 kenar uzunluğunu giriniz: ");
+        System.out.print("3. kenar uzunluğunu giriniz: ");
         c = untıl.nextInt();
 
         u = (a + b + c) / 2;
