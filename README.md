@@ -1,2 +1,2 @@
-# Ucgende-Alan-Hesaplama
- - Üç kenar uzunluğu kullanıcıdan alınan, üçgenin alanını hesaplayan program
+# Ucgende Alan ve Cevre Hesaplayan Program
+ - Üç kenar uzunluğu kullanıcıdan alınan, üçgenin alanını ve çevresini hesaplayan program
